@@ -12,7 +12,7 @@
 
 .Inclusive-addStory-page .addStory-form {
     position: relative;
-    width: 650px;
+    width: 650px; 
     margin: 0 auto;
     display: flex;
     flex-direction: column;
